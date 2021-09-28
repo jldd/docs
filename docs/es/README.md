@@ -1,6 +1,6 @@
 # Acerca de Flarum
 
-Flarum es una plataforma de discusión increíblemente sencilla para su sitio web. Es rápido y fácil de usar, con todas las características que necesitas para dirigir una comunidad exitosa.
+Flarum es una plataforma de discusión increíblemente sencilla para tu sitio web. Es rápido y fácil de usar, con todas las características que necesitas para dirigir una comunidad exitosa.
 
 Esta guía de usuario te ayudará a crear tu propio foro usando Flarum y te enseñará los fundamentos básicos de la gestión de tu comunidad.
 
